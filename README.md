@@ -1,2 +1,2 @@
 # tutturu
-🍭 Cryptocurrency browser games platform.
+Cryptocurrency browser games platform.
